@@ -1,0 +1,5 @@
+name=Auto-Eating
+poster=autoeat-poster.png
+id=AUTOEATING
+description= Automatically eat (favorited) food. In order to automatically eat the food must be in your main inventory, favorited, and edible as is. Cans will have to be opened manually beforehand.
+description=Automatically eat food (via favorited food).
