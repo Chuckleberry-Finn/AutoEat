@@ -2,7 +2,14 @@ version=1
 id=2365757229
 title=Auto Eat
 description=Automatically eat (favorited) food.
+description= 
+description=[img]https://i.imgur.com/p7Fv1Z6.gif[/img]
+description= 
+description=[url=https://ko-fi.com/chuckleberryfinn][img]https://i.imgur.com/GxZ38nz.png[/img] [b]Consider supporting Chuck[/b][/url]
+description= 
 description=In order to automatically eat the food must be in your main inventory, favorited, and edible as is*.
 description=*Cans will have to be opened manually beforehand.
-tags=
+description=
+description=Tags:B41,Food,Tweak,Easy,Easier
+tags=Build 41;Food;Tweak;Easier
 visibility=public
